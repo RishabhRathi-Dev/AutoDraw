@@ -1,6 +1,6 @@
 # AutoDraw
 
-AutoDraw is a GUI Application build using python. It's purpose decide to clear out noise from the photo, take photo using webcam and draw a sketch of it or save it. Choice is yours.
+AutoDraw is a GUI Application build using python. It's purpose is to clear out noise from the photo, take photo using webcam and draw a sketch of it or save it. Choice is yours.
 
 
 ## Working:
